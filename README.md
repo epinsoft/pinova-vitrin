@@ -1,3 +1,5 @@
+<p align="center"><sub>🌐 <b>Türkçe</b> · <a href="README.en.md">English</a></sub></p>
+
 <p align="center">
   <a href="https://pinova.epinsoft.com.tr"><img src="img/hero.png" alt="Pinova — Epin Scripti & Epin Yazılımı" width="100%"></a>
 </p>
@@ -9,8 +11,6 @@
 **Tam otomatik epin satış sistemi.** Oyun epini, oyun kodu, hediye kartı ve dijital ürünleri _anında otomatik teslimatla_ satan; bakiye + bayilik sistemli hazır **epin yazılımı**.
 
 Steam key · PUBG UC · Valorant VP · Minecraft · PlayStation — tek panelden, PHP.
-
-**[▶ Canlı Demo](https://pinova.epinsoft.com.tr)** · **[Ekran Görüntüleri](#-ekran-görüntüleri)** · **[İletişim](mailto:pazarlama@epinsoft.com.tr)**
 
 <br>
 
@@ -35,12 +35,21 @@ Steam key · PUBG UC · Valorant VP · Minecraft · PlayStation — tek panelden
 </div>
 
 > [!TIP]
-> **Canlı demoyu hemen incele →** [pinova.epinsoft.com.tr](https://pinova.epinsoft.com.tr)
-> Satın alma & lisanslama: **pazarlama@epinsoft.com.tr** · **+90 850 255 18 01**
+> **▶ Canlı demo:** [pinova.epinsoft.com.tr](https://pinova.epinsoft.com.tr)
+>
+> **✉️ Satın alma & lisanslama:** pazarlama@epinsoft.com.tr
+>
+> **📞 Telefon:** +90 850 255 18 01
 
 > Bu bir **tanıtım vitrinidir**. Kaynak kod özeldir; bu depo yalnızca ekran görüntülerini ve öne çıkan özellikleri sergiler.
 
 ---
+
+## 🎬 Canlı Önizleme
+
+<p align="center">
+  <a href="https://pinova.epinsoft.com.tr"><img src="img/demo.gif" alt="Pinova canlı önizleme" width="900"></a>
+</p>
 
 ## 📸 Ekran Görüntüleri
 
