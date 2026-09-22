@@ -17,6 +17,8 @@ Steam keys · game top-ups · gift cards · licenses — from a single panel, PH
 <a href="https://pinova.epinsoft.com.tr"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
 &nbsp;
 <a href="mailto:pazarlama@epinsoft.com.tr"><img src="https://img.shields.io/badge/Contact%20%2F%20Buy-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact / Buy"></a>
+&nbsp;
+<a href="docs/FEATURES-and-INSTALL.en.md"><img src="https://img.shields.io/badge/Features%20%26%20Install-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Features & Install"></a>
 
 <br><br>
 
@@ -39,6 +41,8 @@ Steam keys · game top-ups · gift cards · licenses — from a single panel, PH
 > **✉️ Purchase & licensing:** pazarlama@epinsoft.com.tr
 >
 > **📞 Phone:** +90 850 255 18 01
+>
+> **📖 Features & installation guide:** [docs/FEATURES-and-INSTALL.en.md](docs/FEATURES-and-INSTALL.en.md)
 
 > This is a **showcase repository**. The source code is private; this repo only presents screenshots and highlights.
 

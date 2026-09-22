@@ -17,6 +17,8 @@ Steam key · PUBG UC · Valorant VP · Minecraft · PlayStation — tek panelden
 <a href="https://pinova.epinsoft.com.tr"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canlı Demo"></a>
 &nbsp;
 <a href="mailto:pazarlama@epinsoft.com.tr"><img src="https://img.shields.io/badge/%C4%B0leti%C5%9Fim%20%2F%20Sat%C4%B1n%20Al-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="İletişim / Satın Al"></a>
+&nbsp;
+<a href="docs/OZELLIKLER-ve-KURULUM.md"><img src="https://img.shields.io/badge/%C3%96zellikler%20%26%20Kurulum-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Özellikler & Kurulum"></a>
 
 <br><br>
 
@@ -40,6 +42,8 @@ Steam key · PUBG UC · Valorant VP · Minecraft · PlayStation — tek panelden
 > **✉️ Satın alma & lisanslama:** pazarlama@epinsoft.com.tr
 >
 > **📞 Telefon:** +90 850 255 18 01
+>
+> **📖 Özellikler & kurulum kılavuzu:** [docs/OZELLIKLER-ve-KURULUM.md](docs/OZELLIKLER-ve-KURULUM.md)
 
 > Bu bir **tanıtım vitrinidir**. Kaynak kod özeldir; bu depo yalnızca ekran görüntülerini ve öne çıkan özellikleri sergiler.
 
