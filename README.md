@@ -1,25 +1,42 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/pinova_logo_dark.webp">
-    <img src="img/pinova_logo.webp" alt="Pinova" height="72">
-  </picture>
+  <a href="https://pinova.epinsoft.com.tr"><img src="img/hero.png" alt="Pinova — Epin Scripti & Epin Yazılımı" width="100%"></a>
 </p>
 
-<h1 align="center">Pinova — Epin Scripti & Epin Yazılımı</h1>
-<p align="center"><b>Tam otomatik epin satış sistemi · e‑pin / dijital ürün satış sitesi scripti (PHP)</b></p>
+<div align="center">
 
-<p align="center">
-  Pinova'yı; oyun epini, oyun kodu, hediye kartı ve dijital ürünlerin <b>anında otomatik teslimatla</b> satıldığı,
-  bakiye + bayilik sistemli, hazır bir <b>epin satış scripti</b> olarak geliştirdim.<br>
-  Steam key, PUBG UC, Valorant VP, Minecraft, PlayStation ve daha fazlası için tek panelden yönetilen <b>epin yazılımı</b>.
-</p>
+# Pinova — Epin Scripti & Epin Yazılımı
 
-<p align="center">
-  <img alt="stack" src="https://img.shields.io/badge/PHP-CodeIgniter-777bb4">
-  <img alt="db" src="https://img.shields.io/badge/MySQL-utf8mb4-4479a1">
-  <img alt="brand" src="https://img.shields.io/badge/Marka-Pinova%20Mavisi-2563EB">
-  <img alt="status" src="https://img.shields.io/badge/Durum-Sat%C4%B1l%C4%B1k%20Yaz%C4%B1l%C4%B1m-2ea44f">
-</p>
+**Tam otomatik epin satış sistemi.** Oyun epini, oyun kodu, hediye kartı ve dijital ürünleri _anında otomatik teslimatla_ satan; bakiye + bayilik sistemli hazır **epin yazılımı**.
+
+Steam key · PUBG UC · Valorant VP · Minecraft · PlayStation — tek panelden, PHP.
+
+**[▶ Canlı Demo](https://pinova.epinsoft.com.tr)** · **[Ekran Görüntüleri](#-ekran-görüntüleri)** · **[İletişim](mailto:pazarlama@epinsoft.com.tr)**
+
+<br>
+
+<a href="https://pinova.epinsoft.com.tr"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canlı Demo"></a>
+&nbsp;
+<a href="mailto:pazarlama@epinsoft.com.tr"><img src="https://img.shields.io/badge/%C4%B0leti%C5%9Fim%20%2F%20Sat%C4%B1n%20Al-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="İletişim / Satın Al"></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/An%C4%B1nda%20Teslimat-2ea44f?style=for-the-badge" alt="Anında Teslimat">
+<img src="https://img.shields.io/badge/AES%20%C5%9Eifreli%20Stok-6d28d9?style=for-the-badge" alt="AES Şifreli Stok">
+<img src="https://img.shields.io/badge/Bayilik%20Sistemi-0ea5e9?style=for-the-badge" alt="Bayilik Sistemi">
+<img src="https://img.shields.io/badge/AI%20Blog-f59e0b?style=for-the-badge" alt="AI Blog">
+
+<br>
+
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white">
+<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat&logo=codeigniter&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img alt="Marka" src="https://img.shields.io/badge/Marka-Pinova_Mavisi-2563EB">
+
+</div>
+
+> [!TIP]
+> **Canlı demoyu hemen incele →** [pinova.epinsoft.com.tr](https://pinova.epinsoft.com.tr)
+> Satın alma & lisanslama: **pazarlama@epinsoft.com.tr** · **+90 850 255 18 01**
 
 > Bu bir **tanıtım vitrinidir**. Kaynak kod özeldir; bu depo yalnızca ekran görüntülerini ve öne çıkan özellikleri sergiler.
 
