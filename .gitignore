@@ -1,0 +1,9 @@
+# public repo — hassas hiçbir şey
+*.sql
+config*.php
+database.php
+pnv_app/
+engine/
+.env
+Thumbs.db
+.DS_Store
