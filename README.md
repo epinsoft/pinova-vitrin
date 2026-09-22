@@ -36,9 +36,15 @@
 |---|---|
 | ![Blog](screenshots/05-blog.jpg) | ![Çekilişler](screenshots/06-cekilisler.jpg) |
 
-| Mobil (responsive) | |
-|---|---|
-| <img src="screenshots/07-mobil.jpg" width="240"> | |
+### 📱 Mobil Görünüm (responsive)
+
+<p align="center">
+  <img src="screenshots/07-mobil-1-anasayfa.jpg" width="250" alt="Mobil ana sayfa">
+  &nbsp;
+  <img src="screenshots/07-mobil-2-urun.jpg" width="250" alt="Mobil ürün detay">
+  &nbsp;
+  <img src="screenshots/07-mobil-3-kategori.jpg" width="250" alt="Mobil kategori">
+</p>
 
 ### 🛠️ Yönetim Paneli & Entegrasyonlar
 
