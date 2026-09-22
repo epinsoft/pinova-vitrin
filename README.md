@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="img/pinova_logo.webp" alt="Pinova" height="70">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/pinova_logo_dark.webp">
+    <img src="img/pinova_logo.webp" alt="Pinova" height="72">
+  </picture>
 </p>
 
 <h1 align="center">Pinova — Epin Scripti & Epin Yazılımı</h1>
